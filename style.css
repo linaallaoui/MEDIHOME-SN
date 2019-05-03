@@ -1,0 +1,220 @@
+body{font-size: 14px;
+line-height: 1.43;
+
+text-rendering: optimizeLegibility !important;
+-webkit-font-smoothing: antialiased !important;}
+
+
+.navbar{text-trans form: capitalize;
+font-family: 'PT Sans Narrow',Arial,sans-sherif;
+font-weight: 700;
+
+
+
+}
+
+h4
+{
+	font-family:"Abril Fatface", ;
+}
+.a
+{
+	margin-top:-80px;
+}
+.navbar-dark
+{
+	background: #222222;
+}
+
+.navbar-collapse a:hover
+{
+	background-color: black;
+	color: white;
+}
+
+.navbar .navbar-brand 
+{
+	color:#CD3B56;
+}
+.navbar .navbar-brand:hover
+{
+	background-color: black;
+	color:#ffd148;
+}
+.btn-warning 
+{
+	width: 95px;
+	font-size: 12px;
+}
+
+.head .btn-warning
+{
+	font-size: 20px;
+	margin-left: 15px;
+
+}
+.head{background-image: url("img/desk.jpg");
+width: 100%;
+height: 600px;
+padding: 40px 0 40px;
+background-position: center;
+background-repeat: no-repeat;
+color:white;
+margin-top: 1px;
+font-family: 'Open Sans', sans-serif;
+	}
+
+.head h1
+{
+	 font-size: 40px;
+	 font-weight: 700;
+	 padding-top: 30px;
+	 color:#31a0d8;
+
+}
+
+.head p {
+	margin-left: 125px ;
+}
+.lead
+{
+	color:#31a0d8;
+	font-size: 25px;
+}
+
+.action
+{
+	text-align: center;
+
+}
+
+.action p{
+	font-size: 20px;
+}
+#action
+{
+	border: solid 1.5px #31a0d8; 
+	width: 1px;
+	padding-left: 60px;
+	margin-left: 700px;
+}
+
+
+
+.newsletter {
+padding: 80px 0;
+
+}
+
+.newsletter .content {
+max-width: 650px;
+margin: 0 auto;
+text-align: center;
+position: relative;
+z-index: 2; }
+.newsletter .content h2 {
+color: #243c4f;
+margin-bottom: 40px; }
+.newsletter .content .form-control {
+height: 50px;
+border-color: silver;
+border-radius:4%;
+
+background-color: silver;
+}
+.newsletter .content.form-control:focus {
+box-shadow: none;
+border: 2px solid #243c4f;
+
+
+}
+.newsletter .content .btn {
+min-height: 50px; 
+border-radius:0;
+background: green;
+color: #fff;
+font-weight:600;
+margin-left: 10px;
+border-radius: 5%;
+}
+
+
+.foot p {color: silver;
+	text-align: justify;
+
+}
+
+
+
+h5
+{
+	margin-left:100px;
+}
+
+
+.list-unstyled
+{
+	margin-left:50px;
+}
+
+.avatar .col-md-6
+{
+	margin-left: 60px;
+}
+
+.list-unstyled i
+{
+	color:#31a0d8;
+}
+
+.foot
+{
+	background-color:#222222;
+	margin-top: 180px;
+	padding-top: 70px;
+	
+}
+
+
+#row2 h6
+{
+	color:white;
+}
+
+
+#btnf
+{
+	background-color: #31a0d8;
+}
+
+
+@media (max-width: 960px) {
+  /* For a screen < 960px, this CSS will be read */
+  .container {
+    width: 700px;
+  }
+}
+@media (max-width: 720px) {
+  /* For a screen < 720px, this CSS will be read */
+  .container {
+    width: 500px;
+  }
+}
+@media (max-width: 540px) {
+  /* For a screen < 540px, this CSS will be read */
+  .container {
+    width: 300px;
+  }
+}
+
+input{
+	margin-left: 250px;
+	text-align: center;
+	
+}
+
+
+
+
+
+
