@@ -214,7 +214,7 @@ input{
 }
 
 
-#urg{
+#urg p {
 	color: red;
 }
 
@@ -229,6 +229,11 @@ input{
 	margin-top: 45px;
 }
 
+#app p{
+	color: #31a0d8;
+	font-size: 20px;
+	text-align: center;
+}
 #appli {
 	margin-left: 45px;
 	align-self: center;
