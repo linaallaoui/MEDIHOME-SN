@@ -214,11 +214,11 @@ input{
 }
 
 
-.urg{
- color: red;
+.urg p {
  text-align: center;
  font-size: 25px;
  padding-bottom: 65px;
+ color: red;
 }
 
 
