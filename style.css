@@ -214,6 +214,27 @@ input{
 }
 
 
+#urg{
+	color: red;
+}
+
+#app{
+	font-family: roboto;
+	font-size: 20px;
+	color: #31a0d8;
+	text-align: center;
+	margin-top: 15px;
+	padding-top: 15px;
+	height: 275px;
+	margin-top: 45px;
+}
+
+#appli {
+	margin-left: 45px;
+	align-self: center;
+}
+
+
 
 
 
