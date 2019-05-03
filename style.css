@@ -214,9 +214,13 @@ input{
 }
 
 
-#urg p {
-	color: red;
+#urg{
+ color: red;
+ text-align: center;
+ font-size: 25px;
+ padding-bottom: 65px;
 }
+
 
 #app{
 	font-family: roboto;
